@@ -3,7 +3,7 @@ data = [
     {'id': 11, 'user': 'Misha'},
     {'id': 12, 'user': 'Anton'},
     {'id': 10, 'user': 'Bob'},
-    {'id': 11, 'user': 'Bob'},
+    {'id': 11, 'user': 'Misha'},
 ]
 
 unique_data = []
